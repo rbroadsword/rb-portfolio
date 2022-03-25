@@ -51,4 +51,14 @@ body {
   list-style-type: none;
   display: flex;
   justify-content: space-around;
+  margin-top: 1.5rem;
+  color: purple;
+}
+
+h2 {
+  font-size: 2rem; 
+  padding: 1.5rem;
+  margin: 1rem;
+  color: hotpink; 
+  text-shadow: 2px 2px purple; 
 }
