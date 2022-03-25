@@ -4,5 +4,22 @@
   box-sizing: border-box;
 }
 body {
-  background: linear-gradient(120deg,pink, purple, pink)
+  background: linear-gradient(120deg, white, pink, purple, white, purple, pink, white)
+}
+
+.main-head {
+  min-height: 30vh;
+  background-color: aqua;
+}
+
+.about-me {
+  min-height: 50vh;
+}
+
+.background {
+  min-height: 50vh;
+}
+
+.projects {
+  min-height: 50vh; 
 }
