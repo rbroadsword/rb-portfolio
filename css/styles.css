@@ -76,3 +76,9 @@ li {
   padding: 1rem; 
   margin: 1rem;
 }
+
+img {
+  width: 50%;
+  float: right;
+  border: hotpink solid .25rem;
+}
