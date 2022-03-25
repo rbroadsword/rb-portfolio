@@ -3,8 +3,10 @@
   padding: 0; 
   box-sizing: border-box;
 }
+
 body {
-  background: linear-gradient(120deg, pink, purple, pink, purple, pink)
+  background: linear-gradient(120deg, pink, purple, pink, purple, pink);
+  font-family: 'Poppins', sans-serif;
 }
 
 .main-head {
@@ -41,6 +43,7 @@ body {
 
 #title {
   text-align: center;
+  font-family: 'Permanent Marker', cursive;
   font-size: 5rem;
   color: hotpink;
   text-shadow: 2px 2px purple;
