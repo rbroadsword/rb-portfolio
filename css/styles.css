@@ -29,3 +29,10 @@ body {
   color: blue;
   text-shadow: 2px 2px yellow;
 }
+
+#nav-bar {
+  font-size: 1.5rem;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+}
