@@ -9,7 +9,6 @@ body {
 
 .main-head {
   min-height: 30vh;
-  background-color: aqua;
 }
 
 .about-me {
@@ -22,4 +21,11 @@ body {
 
 .projects {
   min-height: 50vh; 
+}
+
+#title {
+  text-align: center;
+  font-size: 5rem;
+  color: blue;
+  text-shadow: 2px 2px yellow;
 }
