@@ -4,30 +4,46 @@
   box-sizing: border-box;
 }
 body {
-  background: linear-gradient(120deg, white, pink, purple, white, purple, pink, white)
+  background: linear-gradient(120deg, pink, purple, pink, purple, pink)
 }
 
 .main-head {
   min-height: 30vh;
+  margin: 2rem;
+  padding: 1rem;
+  background-color: white; 
+  border: hotpink solid .25rem;
 }
 
 .about-me {
   min-height: 50vh;
+  margin: 2rem;
+  padding: 1rem;
+  background-color: white;
+  border: hotpink solid .25rem;
 }
 
 .background {
   min-height: 50vh;
+  margin: 2rem;
+  padding: 1rem;
+  background-color: white;
+  border: hotpink solid .25rem;
 }
 
 .projects {
   min-height: 50vh; 
+  margin: 2rem;
+  padding: 1rem;
+  background-color: white;
+  border: hotpink solid .25rem;
 }
 
 #title {
   text-align: center;
   font-size: 5rem;
-  color: blue;
-  text-shadow: 2px 2px yellow;
+  color: hotpink;
+  text-shadow: 2px 2px purple;
 }
 
 #nav-bar {
