@@ -15,7 +15,6 @@ body {
   margin: 2rem;
   padding: 1rem;
   background-color: black; 
-  border: hotpink solid .25rem;
 }
 
 .about-me {
@@ -24,7 +23,6 @@ body {
   padding: 1rem;
   background-color: black;
   color: white;
-  border: hotpink solid .25rem;
 }
 
 .background {
@@ -33,13 +31,11 @@ body {
   padding: 1rem;
   background-color: black;
   color: white;
-  border: hotpink solid .25rem;
 }
 
 .background img {
   width: 50%;
   float: right;
-  border: hotpink solid .25rem;
 }
 
 .projects {
@@ -48,7 +44,6 @@ body {
   padding: 1rem;
   background-color: black;
   color: white;
-  border: hotpink solid .25rem;
 }
 
 #title {
@@ -95,4 +90,16 @@ li {
     0 0 92px #f09,
     0 0 102px #f09,
     0 0 151px #f09;
+}
+
+.border {
+  border: 0.2rem solid #fff;
+  border-radius: 2rem;
+  padding: 0.4em;
+  box-shadow: 0 0 .2rem #fff,
+              0 0 .2rem #fff,
+              0 0 2rem #bc13fe,
+              0 0 0.8rem #bc13fe,
+              0 0 2.8rem #bc13fe,
+              inset 0 0 1.3rem #bc13fe;
 }
