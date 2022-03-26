@@ -7,8 +7,7 @@
 ## Technologies Used 
 
 * HTML
-* CSS 
-* Bootstrap
+* CSS
 
 ## Description 
 
