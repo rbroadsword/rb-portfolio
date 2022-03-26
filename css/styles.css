@@ -50,6 +50,7 @@ body {
   text-align: center;
   font-family: 'Permanent Marker', cursive;
   font-size: 5rem;
+  
 }
 
 #nav-bar {
@@ -82,8 +83,6 @@ li {
 .neonText {
   color: #fff;
   text-shadow:
-    0 0 7px #fff,
-    0 0 10px #fff,
     0 0 21px #fff,
     0 0 42px #f09,
     0 0 82px #f09,
