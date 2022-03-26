@@ -3,20 +3,17 @@
   padding: 0; 
   box-sizing: border-box;
 }
-
 body {
   background: linear-gradient(120deg, pink, purple, pink, purple, pink);
   font-family: 'Neucha', cursive;
   font-size: 1.5rem;
 }
-
 .main-head {
   min-height: 30vh;
   margin: 2rem;
   padding: 1rem;
   background-color: black; 
 }
-
 .about-me {
   min-height: 50vh;
   margin: 2rem;
@@ -24,7 +21,6 @@ body {
   background-color: black;
   color: white;
 }
-
 .background {
   min-height: 50vh;
   margin: 2rem;
@@ -32,12 +28,10 @@ body {
   background-color: black;
   color: white;
 }
-
 .background img {
   width: 50%;
   float: right;
 }
-
 .projects {
   min-height: 50vh; 
   margin: 2rem;
@@ -45,14 +39,12 @@ body {
   background-color: black;
   color: white;
 }
-
 #title {
   text-align: center;
   font-family: 'Permanent Marker', cursive;
   font-size: 5rem;
   
 }
-
 #nav-bar {
   font-size: 1.5rem;
   list-style-type: none;
@@ -61,7 +53,6 @@ body {
   margin-top: 1.5rem;
   color: purple;
 }
-
 h2 {
   font-size: 2.5rem; 
   padding: 1.5rem;
@@ -69,17 +60,14 @@ h2 {
   color: hotpink; 
   text-shadow: 2px 2px purple; 
 }
-
 .spacing { 
   padding: 1rem; 
   margin: 1rem; 
 }
-
 li {
   padding: 1rem; 
   margin: 1rem;
 }
-
 .neonText {
   color: #fff;
   text-shadow:
@@ -90,7 +78,6 @@ li {
     0 0 102px #f09,
     0 0 151px #f09;
 }
-
 .border {
   border: 0.2rem solid #fff;
   border-radius: 2rem;
