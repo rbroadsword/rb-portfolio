@@ -14,7 +14,7 @@ body {
   min-height: 30vh;
   margin: 2rem;
   padding: 1rem;
-  background-color: white; 
+  background-color: black; 
   border: hotpink solid .25rem;
 }
 
@@ -22,7 +22,8 @@ body {
   min-height: 50vh;
   margin: 2rem;
   padding: 1rem;
-  background-color: white;
+  background-color: black;
+  color: white;
   border: hotpink solid .25rem;
 }
 
@@ -30,7 +31,8 @@ body {
   min-height: 50vh;
   margin: 2rem;
   padding: 1rem;
-  background-color: white;
+  background-color: black;
+  color: white;
   border: hotpink solid .25rem;
 }
 
@@ -44,7 +46,8 @@ body {
   min-height: 50vh; 
   margin: 2rem;
   padding: 1rem;
-  background-color: white;
+  background-color: black;
+  color: white;
   border: hotpink solid .25rem;
 }
 
@@ -52,8 +55,6 @@ body {
   text-align: center;
   font-family: 'Permanent Marker', cursive;
   font-size: 5rem;
-  color: hotpink;
-  text-shadow: 2px 2px purple;
 }
 
 #nav-bar {
@@ -81,4 +82,17 @@ h2 {
 li {
   padding: 1rem; 
   margin: 1rem;
+}
+
+.neonText {
+  color: #fff;
+  text-shadow:
+    0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px #f09,
+    0 0 82px #f09,
+    0 0 92px #f09,
+    0 0 102px #f09,
+    0 0 151px #f09;
 }
